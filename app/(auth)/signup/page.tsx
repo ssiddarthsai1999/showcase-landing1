@@ -1,5 +1,5 @@
 export const metadata = {
-    title: "Sign Up - Open PRO",
+    title: "Sign Up - DataPulseX",
     description: "Page description",
 };
 
@@ -128,8 +128,8 @@ export default function SignUp() {
                                 </div>
                             </div>
                             <div className="text-sm text-gray-500 text-center">
-                                I agree to be contacted by Open PRO about this
-                                offer as per the Open PRO{" "}
+                                I agree to be contacted by DataPulseX about this
+                                offer as per the DataPulseX{" "}
                                 <Link
                                     href="#"
                                     className="underline text-gray-400 hover:text-gray-200 hover:no-underline transition duration-150 ease-in-out"
@@ -147,7 +147,7 @@ export default function SignUp() {
                             </div>
                         </form>
                         <div className="text-gray-400 text-center mt-6">
-                            Already using Open PRO?{" "}
+                            Already using DataPulseX?{" "}
                             <Link
                                 href="/signin"
                                 className="text-green-500 hover:text-gray-200 transition duration-150 ease-in-out"
